@@ -59,7 +59,7 @@ def create_gs1_datamatrix(data_string, module_size=12, dpi=600):
 # 테스트
 if __name__ == "__main__":
     # 테스트 데이터
-    test_data = "01188002825303681125011421250114TLAS456401"
+    test_data = ""
     
     # 여러 가지 설정으로 테스트
     # 1. 기본 고해상도 버전

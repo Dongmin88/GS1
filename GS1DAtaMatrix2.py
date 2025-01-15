@@ -3,7 +3,7 @@ from PIL import Image
 import io
 
 # 데이터
-data = "01188002825303681125011421250114TLAS456401"
+data = ""
 
 # DataMatrix 코드 생성
 encoded = encode(data.encode('utf-8'))
